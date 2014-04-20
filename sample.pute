@@ -1,3 +1,6 @@
 -- Pute lang sample code
 -- btw this is a commentary
 
+a is 2
+a + 2
+b is a - 4
